@@ -13,6 +13,4 @@ POS of Restaurant Management System
 4. 配合加密算法、权限分配、详细的系统日志、备份与恢复功能，
 使餐饮系统的安全性得到有力的保障，使数据更加安全可靠.
 
-卸载图片(1)张
-
 感谢您选择我们的产品! 获取最新版本 http://www.chaoyee.com
